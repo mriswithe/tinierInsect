@@ -1,0 +1,12 @@
+{
+  "modid": "tinierInsect",
+  "name": "Tinier Insects",
+  "author_list": ["mriswithe"],
+  "description": "Shrinks elites even further when you have preserved insect",
+  "dependencies": [],
+  "credits" : "",
+  "version": "0.1",
+  "sts_version": "01-23-2019",
+  "mts_version": "3.8.3"
+
+}
